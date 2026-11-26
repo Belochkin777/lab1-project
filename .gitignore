@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local data and secrets
+tasks.json
+.env
+*.key
+credentials.json
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
